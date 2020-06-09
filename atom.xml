@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://givemehoney.github.io</id>
     <title>good job</title>
-    <updated>2020-06-08T02:07:36.878Z</updated>
+    <updated>2020-06-09T00:24:15.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://givemehoney.github.io"/>
     <link rel="self" href="https://givemehoney.github.io/atom.xml"/>
@@ -10,35 +10,91 @@
     <icon>https://givemehoney.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, good job</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://givemehoney.github.io/post/hello-gridea/</id>
-        <link href="https://givemehoney.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[mybatis-spring-springmvc-Java学习]]></title>
+        <id>https://givemehoney.github.io/post/mybatis-spring-springmvc-java-xue-xi/</id>
+        <link href="https://givemehoney.github.io/post/mybatis-spring-springmvc-java-xue-xi/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-06-09T00:22:11.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.bilibili.com/video/BV1mE411X7yp/</p>
+<p>一、mybatis（1-75）<br>
+Day 1:<br>
+mybatis入门<br>
+概述<br>
+环境搭建<br>
+入门案例<br>
+自定义mabatis框架（为了了解mybatis的执行细节）<br>
+Day 2：<br>
+基本使用<br>
+单表crud操作<br>
+多参与返回值<br>
+dao编写<br>
+配置的细节；几个标签的使用<br>
+Day 3：<br>
+深入与多表<br>
+连接池<br>
+事务控制与设计的方法<br>
+多表查询：一对多，多对一，多对多<br>
+Day 4：<br>
+缓存与注解开发<br>
+加载时机，查询的时机<br>
+一级缓存，二级缓存<br>
+注解开发：单表crud，多表查询</p>
+<p>二、Spring（76-158）<br>
+Day1： 框架概述和基于XML的IOC配置<br>
+Day 2：基于注解的IOC和ioc案例<br>
+Day 3：aop和基于XML及注解的AOP配置<br>
+Day 4：jdbc Temlate以及spring事务控制</p>
+<p>三、Spring MVC（159-212）<br>
+Day 1：<br>
+基本概念<br>
+入口<br>
+请求参数的绑定<br>
+常用注解<br>
+Day 2：<br>
+响应数据和结果视图<br>
+文件上传<br>
+异常处理<br>
+Day 3：<br>
+搭建整合环境<br>
+spring框架代码的编写<br>
+spring整合springMVC框架<br>
+Spring整合mybatis框架</p>
+<p>四、oracle（213-245）<br>
+基本操作</p>
+<p>五、maven高级（246-263）<br>
+Day1 ：<br>
+基础<br>
+web工程做数据查询<br>
+工程拆分与聚合的思想<br>
+把web工程修改成maven拆分与聚合的形式<br>
+私服（远程仓库）<br>
+安装第三方jar包。安装到本地/远程仓库</p>
+<p>六、SSM整合（264-360）<br>
+Day 1：<br>
+SVN基础<br>
+Visual SVN、Tortoise SVN<br>
+IDEA下使用SVN<br>
+SVN规范<br>
+AdminLTE介绍与使用<br>
+SSM综合练习<br>
+Day 2：<br>
+数据库与表结构<br>
+SSM整合<br>
+产品操作：查询、添加<br>
+订单操作：所有/分页查询<br>
+Day 3：<br>
+订单详情查询<br>
+权限操作<br>
+用户操作<br>
+springSecurity源码分析<br>
+Day 4：作业<br>
+角色详情查询，删除操作<br>
+资源权限详情查询，删除操作<br>
+Day 5：<br>
+用户关联角色操作<br>
+角色关联权限操作<br>
+方法级权限控制<br>
+AOP日志</p>
 ]]></content>
     </entry>
 </feed>
